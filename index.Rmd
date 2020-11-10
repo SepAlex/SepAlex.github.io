@@ -1,0 +1,8 @@
+---
+title: "Case Study 1"
+author: "Alexander_Sepenu"
+date: "10/10/2020"
+output: html_document
+---
+
+# Beer Study Website
